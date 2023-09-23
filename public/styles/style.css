@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital,wght@1,300;1,400&display=swap');
+body{
+    font-family: 'Merriweather', serif;
+}
+#login{
+    background:url(/images/gradient.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100vh;
+}
+form{
+    padding: 0 1em;
+}
+.dashbrd{
+    height: 100vh;   
+    background:url(/images/abstract-.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.h{
+    height: 85vh;
+}
